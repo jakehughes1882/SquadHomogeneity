@@ -1,0 +1,10 @@
+ShotsPerGame,Apps,MotM,Team,RedCards,PassPercentage,YellowCards,WSRating,Season,Tournament,AerielsWon,Goals,Assits,Mins
+0.1	,9,-	,Aston Villa,-	,78.4	,1	,6.75,2019/2020,EPL,2.7	,-	,1	,810	
+0.4	,18,-	,Aston Villa,1	,78.6	,3	,6.98,2018/2019,EC,3	,2	,-	,1590	
+-	,2(3),-	,Bournemouth,-	,83.9	,-	,6.37,2018/2019,EPL,0.6	,-	,-	,142	
+0.3	,3(1),-	,Bournemouth,-	,77.9	,1	,6.20,2017/2018,EPL,0.5	,-	,-	,203	
+0.1	,5(2),-	,Bournemouth,-	,83.2	,-	,6.34,2016/2017,EPL,2	,-	,-	,506	
+-	,0(1),-	,Bournemouth,-	,100	,-	,6.21,2015/2016,EPL,-	,-	,-	,12	
+0.7	,40(2),2	,Ipswich,-	,62.8	,10	,7.23,2014/2015,EC,1.7	,1	,4	,3659	
+0.3	,4(12),-	,Ipswich,-	,61.9	,1	,6.40,2013/2014,EC,1.4	,-	,2	,443	
+0.4,102,2,,1,70.2,16,6.86,Total / Average,,1.9,3,7,7365
